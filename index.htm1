@@ -1,43 +1,31 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Discord Community</title>
-<link rel="stylesheet" href="style.css">
-</head>
-
-<body>
-
-<header>
-    <h1>My Discord Community</h1>
-    <p>Join our server and meet new people 🚀</p>
-    <a href="https://discord.gg/TON_LIEN" class="btn">Join Discord</a>
-</header>
-
 <section>
-    <h2>About Us</h2>
-    <p>
-        A friendly Discord community for gaming, chatting and events.
-    </p>
-</section>
-
-<section>
-    <h2>Features</h2>
+    <h2>Follow Me</h2>
 
     <div class="cards">
-        <div class="card">🎮 Gaming</div>
-        <div class="card">💬 Chat</div>
-        <div class="card">🔥 Events</div>
+
+        <div class="card">
+            📸 Instagram
+            <br>
+            <a href="https://www.instagram.com/avvyouub?igsh=YmtjMG11NGZtbjN4" target="_blank">
+                Visit
+            </a>
+        </div>
+
+        <div class="card">
+            🎵 TikTok
+            <br>
+            <a href="https://www.tiktok.com/@avvyouub3?_r=1&_t=ZS-98ffw3k191k" target="_blank">
+                Visit
+            </a>
+        </div>
+
+        <div class="card">
+            🎧 Spotify
+            <br>
+            <a href="https://open.spotify.com/user/31fdv5xngmrhmhyav7qxi3ldrpm4?si=-BwyMNhmSnyFHtOtOXxOHg&utm_source=copy-link" target="_blank">
+                Listen
+            </a>
+        </div>
+
     </div>
-
 </section>
-
-<footer>
-    <p>© 2026 My Discord Community</p>
-</footer>
-
-<script src="script.js"></script>
-
-</body>
-</html>
