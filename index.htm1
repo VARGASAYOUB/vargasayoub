@@ -1,1 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>VARGAS AYOUB</title>
 
+  <link rel="stylesheet" href="style.css">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700;900&display=swap" rel="stylesheet">
+
+  <script src="https://kit.fontawesome.com/6c63d8f2d4.js" crossorigin="anonymous"></script>
+
+</head>
+
+<body>
+
+<div id="particles"></div>
+
+<section class="hero">
+
+<div class="card">
+
+<img src="profile.jpg" class="profile">
+
+<h1>VARGAS AYOUB</h1>
+
+<h2>ROLEPLAYER • CONTENT CREATOR</h2>
+
+<p class="bio">
+Welcome to my official website.<br>
+Fearless. Loyal. Legendary.
+</p>
+
+<div class="buttons">
+
+<a href="https://www.instagram.com/avvyouub?igsh=YmtjMG11NGZtbjN4" target="_blank">
+<i class="fab fa-instagram"></i>
+Instagram
+</a>
+
+<a href="https://www.tiktok.com/@avvyouub3?_r=1&_t=ZS-98fbpqpCuVL" target="_blank">
+<i class="fab fa-tiktok"></i>
+TikTok
+</a>
+
+<a href="https://open.spotify.com/user/31fdv5xngmrhmhyav7qxi3ldrpm4" target="_blank">
+<i class="fab fa-spotify"></i>
+Spotify
+</a>
+
+</div>
+
+</div>
+
+</section>
+
+<script src="script.js"></script>
+
+</body>
+</html>
