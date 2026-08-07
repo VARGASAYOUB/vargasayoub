@@ -1,38 +1,40 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Discord Community</title>
-    <link rel="stylesheet" href="style.css">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Discord Community</title>
+<link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 
 <header>
     <h1>My Discord Community</h1>
-    <p>Join our server and meet new people</p>
-    <a href="#" class="btn">Join Discord</a>
+    <p>Join our server and meet new people 🚀</p>
+    <a href="https://discord.gg/TON_LIEN" class="btn">Join Discord</a>
 </header>
 
 <section>
     <h2>About Us</h2>
     <p>
-        Welcome to our Discord server. Here you can chat, play games and make friends.
+        A friendly Discord community for gaming, chatting and events.
     </p>
 </section>
 
 <section>
     <h2>Features</h2>
+
     <div class="cards">
         <div class="card">🎮 Gaming</div>
         <div class="card">💬 Chat</div>
         <div class="card">🔥 Events</div>
     </div>
+
 </section>
 
 <footer>
-    <p>© 2026 Discord Community</p>
+    <p>© 2026 My Discord Community</p>
 </footer>
 
 <script src="script.js"></script>
